@@ -82,11 +82,4 @@ h2 {
 svg {
   height: 20px;
   color: rgba(0, 162, 245, 1);
-  /* position: static;
-  left: 0px;
-  top: 22px; */
-}
-
-.bottom-line {
-  display: flex;
 }
